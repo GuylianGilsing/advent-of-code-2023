@@ -1,0 +1,9 @@
+# 1. Test that the program produces the same value as the part 1 example
+
+$ ./day1 ./test-input/part-1.txt
+Sum of all calibration values within input file: 142
+
+# 1. Test that the program produces the same value as the part 2 example
+
+$ ./day1 ./test-input/part-1.txt
+Sum of all calibration values within input file: 281
